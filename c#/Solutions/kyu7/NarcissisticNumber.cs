@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Codewars
+namespace Codewars.kyu7
 {
-    public class NarcissisticNumber
+    internal class NarcissisticNumber
     {
         public static bool IsNarcissistic(int valToTest)
         {

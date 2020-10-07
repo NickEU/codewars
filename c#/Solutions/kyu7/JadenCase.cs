@@ -1,8 +1,8 @@
 ﻿using System.Linq;
 
-namespace Codewars
+namespace Codewars.kyu7
 {
-    public static class JadenCase
+    internal static class JadenCase
     {
         public static string ToJadenCase(string phrase)
         {

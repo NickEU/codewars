@@ -1,8 +1,8 @@
 ﻿using NUnit.Framework;
 
-namespace Codewars
+namespace Codewars.kyu7
 {
-    class VowelCountTest
+    internal class VowelCountTest
     {
         [Test]
         public void TestCase1()

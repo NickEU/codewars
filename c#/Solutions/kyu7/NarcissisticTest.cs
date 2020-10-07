@@ -1,10 +1,10 @@
 ﻿using NUnit.Framework;
 using System.Collections.Generic;
 
-namespace Codewars
+namespace Codewars.kyu7
 {
     [TestFixture]
-    public class NarcissisticTest
+    internal class NarcissisticTest
     {
         private const int TestCase1Input = 1;
         private const int TestCase2Input = 371;

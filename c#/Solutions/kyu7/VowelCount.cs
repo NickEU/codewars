@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Linq;
 
-namespace Codewars
+namespace Codewars.kyu7
 {
-    class VowelCount
+    internal class VowelCount
     {
         public static int GetVowelCount(string str)
         {

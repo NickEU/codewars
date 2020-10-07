@@ -1,9 +1,9 @@
 using System;
 using System.Linq;
 
-namespace Codewars
+namespace Codewars.kyu7
 {
-    public class BitCounting
+    internal class BitCounting
     {
         public static int CountBits(int n)
         {

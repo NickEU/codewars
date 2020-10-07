@@ -2,7 +2,7 @@
 
 namespace Codewars.kyu7
 {
-    class HighestAndLowest
+    internal class HighestAndLowest
     {
         public static string HighAndLow(string str)
         {

@@ -2,7 +2,7 @@
 
 namespace Codewars.kyu7
 {
-    class HighestAndLowestTest
+    internal class HighestAndLowestTest
     {
         [Test]
         public void Test1()

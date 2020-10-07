@@ -1,9 +1,9 @@
 using NUnit.Framework;
 
-namespace Codewars
+namespace Codewars.kyu7
 {
     [TestFixture]
-    public class BitCountingTest
+    internal class BitCountingTest
     {
         [Test]
         public void CountBits()

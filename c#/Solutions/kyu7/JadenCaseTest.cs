@@ -1,9 +1,9 @@
 ﻿using NUnit.Framework;
 
-namespace Codewars
+namespace Codewars.kyu7
 {
     [TestFixture]
-    public class JadenCaseTest
+    internal class JadenCaseTest
     {
         private const string ErrorMsg = "Strings didn't match.";
 
