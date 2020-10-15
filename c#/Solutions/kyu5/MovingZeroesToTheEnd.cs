@@ -10,12 +10,8 @@
             var i = 0;
 
             foreach (var num in arr)
-            {
                 if (num != 0)
-                {
                     result[i++] = num;
-                }
-            }
 
             return result;
         }
